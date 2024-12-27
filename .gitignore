@@ -1,0 +1,15 @@
+# Executables
+*.exe
+
+# Object files
+*.obj
+
+# Backup files
+*.bak
+
+# Debug files
+*.pdb
+
+# Other MASM temporary files
+*.lst
+*.map
